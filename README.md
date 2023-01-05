@@ -36,7 +36,8 @@
  ![image](https://user-images.githubusercontent.com/113594316/198233336-dd9f5c19-481b-486a-928a-99c32a732f89.png)
 
  ## OUTPUT
- ![exp 1 2-1](https://user-images.githubusercontent.com/121957896/210706512-bed9336b-ac99-43fb-9d8d-bd5bbf98d7cb.jpg)
+ 
+![EXPERIMENT 1,2-1](https://user-images.githubusercontent.com/121957896/210711489-c74e2dab-b926-4d90-a532-0d94f5847021.jpg)
 
  
  ## RESULT
